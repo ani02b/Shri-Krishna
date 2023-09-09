@@ -26,6 +26,6 @@ svg {
   }
   100% {
     stroke-dashoffset: 0;
-    stroke: red;
+    stroke: white;
   }
 }
